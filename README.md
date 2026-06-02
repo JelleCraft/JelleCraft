@@ -1,4 +1,4 @@
-# Hey, I'm Jele=le 👋
+# Hey, I'm Jelle 👋
 
 First-year **Technische Informatica** student, learning by building things.  
 Interested in networking, embedded systems, and anything that involves making hardware talk to software.
