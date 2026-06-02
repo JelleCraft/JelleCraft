@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hey, I'm Jele=le 👋
 
-<!--
-**JelleCraft/JelleCraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year **Technische Informatica** student, learning by building things.  
+Interested in networking, embedded systems, and anything that involves making hardware talk to software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+**Languages**
+`C/C++` `Java` `MicroPython` `SQL` `HTML/CSS` `TypeScript`
+
+**Hardware & Embedded**
+`ATtiny` `ESP32` `Arduino` `Raspberry Pi Pico W`
+
+**Networking & Infra**
+`TCP/IP` `DHCP` `Docker` `MySQL`
+
+**Other**
+`Git` `GitLab CI`
+
+---
+
+## 🚀 Projects
+
+**DHCPotato** — DHCP handshake simulation over HTTP, built in C (client) and Java (server).
+
+**Custom Streamdeck** — Designed, wired, and programmed a custom streamdeck during a FabLab Making elective. Combined PCB design, electronics, and firmware.
+
+**Milsim Discord Bot** — Helping build a Discord bot for a military simulation unit. Handles unit management, roles, and operations tooling.
+
+**Milsim Unit Website** — Just getting started on the public site for the milsim unit. Early stages.
+
+---
+
+## 📚 Currently Learning
+
+- Networking fundamentals — OSI model and how it all fits together
+- Infrastructure & containerization (Docker, MySQL)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out or check out my repos below.
