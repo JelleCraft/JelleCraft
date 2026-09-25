@@ -1,6 +1,6 @@
 # Hey, I'm Jelle 👋
 
-First-year **Technische Informatica** student, learning by building things.  
+Second-year **Technische Informatica** student, learning by building things.  
 Interested in networking, embedded systems, and anything that involves making hardware talk to software.
 
 ---
@@ -14,29 +14,30 @@ Interested in networking, embedded systems, and anything that involves making ha
 `ATtiny` `ESP32` `Arduino` `Raspberry Pi Pico W`
 
 **Networking & Infra**
-`TCP/IP` `DHCP` `Docker` `MySQL`
+`TCP/UDP` `IP` `DHCP` `Docker` `MySQL`
 
 **Other**
 `Git` `GitLab CI`
+
+**Product Management**
+`Scrum`
 
 ---
 
 ## 🚀 Projects
 
-**DHCPotato** — DHCP handshake simulation over HTTP, built in C (client) and Java (server).
-
 **Custom Streamdeck** — Designed, wired, and programmed a custom streamdeck during a FabLab Making elective. Combined PCB design, electronics, and firmware.
 
-**Milsim Discord Bot** — Helping build a Discord bot for a military simulation unit. Handles unit management, roles, and operations tooling.
+**Battery Test System** — I'm adding machine learning to a battery test system.
 
-**Milsim Unit Website** — Just getting started on the public site for the milsim unit. Early stages.
+**Graphics engine** 
 
 ---
 
 ## 📚 Currently Learning
 
-- Networking fundamentals — OSI model and how it all fits together
-- Infrastructure & containerization (Docker, MySQL)
+- Reinforced Learning
+- High Performance Computing
 
 ---
 
